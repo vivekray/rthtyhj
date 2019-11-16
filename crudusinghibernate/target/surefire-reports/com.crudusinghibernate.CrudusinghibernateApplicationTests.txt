@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.crudusinghibernate.CrudusinghibernateApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.044 s - in com.crudusinghibernate.CrudusinghibernateApplicationTests
